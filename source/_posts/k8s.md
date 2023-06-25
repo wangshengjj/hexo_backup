@@ -2,7 +2,6 @@
 title: Centos7安装并配置Kubernetes(K8s)
 date: 2022-11-20 17:39:25.572
 updated: 2023-01-04 17:36:25.853
-sticky: 3
 categories: 
 - 服务器搭建
 - 技术
